@@ -5,7 +5,7 @@ public class App {
         //dimensions of bg image 
         int boardWidth = 360;
         int boardHeight = 640;
-
+                                    
         JFrame frame = new JFrame("Flappy Birdy");
         
         frame.setSize(boardWidth, boardHeight);
